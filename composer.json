@@ -1,0 +1,15 @@
+{
+    "name": "gmari/notas",
+    "autoload": {
+        "psr-4": {
+            "Gmari\\Notas\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "gloria182",
+            "email": "123841799+gloria182@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
